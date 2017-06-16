@@ -196,4 +196,13 @@ grid-row-end (4)------------------> o-----------o 4
 +----+ +----+`}</pre>
     </div>
   </Slide>,
+  <Slide>
+    <CodePen
+      height={600}
+      user="winkerVSbecks"
+      id="Gmdwxj"
+      bgColor="#fff"
+      themeId="26435"
+    />
+  </Slide>,
 ];

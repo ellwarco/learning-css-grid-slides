@@ -98,17 +98,17 @@ export const makeGridSlides = [
     />
   </Slide>,
   <Slide bgColor="primary" textColor="secondary">
-    <Heading size="6" textAlign="left">The fr Unit</Heading>
+    <Heading size="6" textAlign="left">The fr Unit ↔️</Heading>
     <Text textSize={f[5]} textAlign="left" margin={s.v3}>
       kind of like <span className="code">flex: 1</span>
     </Text>
     <CodeAscii
-      size={5}
       code={`.my-grid {
 
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+
 
   /*
   The above can also be written as:
@@ -146,7 +146,6 @@ export const makeGridSlides = [
   <Slide bgColor="primary" textColor="secondary">
     <Heading size="6" textAlign="left">Gutters</Heading>
     <CodeAscii
-      size={5}
       code={`.my-grid {
 
   display: grid;

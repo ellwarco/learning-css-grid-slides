@@ -64,20 +64,20 @@ export const introSlides = [
       bgColor="#fff"
     />
   </Slide>,
-  <Slide bgColor="primary">
-    <Image src="https://www.w3.org/TR/css-grid-1/images/flex-layout.png" />
-    <Text textSize={f[5]} margin={s.b5}>Exemplary Flex Layout Example</Text>
-
-    <Image src="https://www.w3.org/TR/css-grid-1/images/grid-layout.png" />
-    <Text textSize={f[5]} margin={s.b5}>Exemplary Grid Layout Example</Text>
-
-    <Text textSize={f[7]} textColor="secondary">
-      from <Link
-        textColor="tertiary"
-        href="https://www.w3.org/TR/css-grid-1/#intro"
-      >
-        www.w3.org/TR/css-grid-1
-      </Link>
-    </Text>
-  </Slide>,
+  // <Slide bgColor="primary">
+  //   <Image src="https://www.w3.org/TR/css-grid-1/images/flex-layout.png" />
+  //   <Text textSize={f[5]} margin={s.b5}>Exemplary Flex Layout Example</Text>
+  //
+  //   <Image src="https://www.w3.org/TR/css-grid-1/images/grid-layout.png" />
+  //   <Text textSize={f[5]} margin={s.b5}>Exemplary Grid Layout Example</Text>
+  //
+  //   <Text textSize={f[7]} textColor="secondary">
+  //     from <Link
+  //       textColor="tertiary"
+  //       href="https://www.w3.org/TR/css-grid-1/#intro"
+  //     >
+  //       www.w3.org/TR/css-grid-1
+  //     </Link>
+  //   </Text>
+  // </Slide>,
 ];
